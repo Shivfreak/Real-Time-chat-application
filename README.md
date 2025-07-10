@@ -153,3 +153,12 @@ To get the application running on your local machine, follow these steps:
     The application will open in your browser at `http://localhost:3001`.
 
 Now you can register a new user and start chatting!
+
+#OUTPUT
+
+<img width="1836" height="826" alt="Image" src="https://github.com/user-attachments/assets/239caffd-d500-41be-8e44-b047dcf240f6" />
+<img width="1809" height="818" alt="Image" src="https://github.com/user-attachments/assets/a349aab5-7e0e-4c52-8a26-c33c85f3fd6a" />
+<img width="1855" height="814" alt="Image" src="https://github.com/user-attachments/assets/8be22c4e-02cc-446a-96d1-cf2fea96cf34" />
+<img width="1885" height="777" alt="Image" src="https://github.com/user-attachments/assets/fcf4505e-4f5a-4eea-8998-0a42cb4a44fd" />
+<img width="1884" height="806" alt="Image" src="https://github.com/user-attachments/assets/3b5d9ecf-03ad-4a49-b0c1-17d7fc132600" />
+<img width="1880" height="838" alt="Image" src="https://github.com/user-attachments/assets/eb40b2cf-228d-42b8-8b0c-cb008074a907" />
